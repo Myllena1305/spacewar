@@ -411,3 +411,4 @@
 408. Se um alienígena oferecer sorvete de lava, aceite e ganhe +50 de XP em acrobacias espaciais.
 409. Se voce vira imortal perde as memorias a cada hora.
 410. Deixe crescer pelo menos 3 pernas. Sem necessidade, apenas para entreter os espectadores.
+411. Se uma fada te oferecer um cupcake de cometa,  voce deve aceitar e ganhar +2 pontos de stamina.
