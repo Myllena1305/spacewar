@@ -414,3 +414,4 @@
 411. Se uma fada te oferecer um cupcake de cometa,  voce deve aceitar e ganhar +2 pontos de stamina.
 412. Se voce ver fogo deve fazer no hit em um boss aleatorio de elden ring.
 413. Se levar uma flecha no joelho, nao podera se aventurar.
+414. Se for no centro de Carpina, coloque perfume.
